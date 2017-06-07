@@ -26,5 +26,6 @@
 	"theme_tab_close_always_visible": true,
 	"theme_tab_selected_overlined": true,
 	"theme_tab_size_md": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"hot_exit": false
 }
